@@ -1,5 +1,5 @@
 div {
-    background-color: teal;
+    background-color: #F1E4C3;
     width: auto;
     height: 600px;
     margin: 20px;
@@ -7,8 +7,9 @@ div {
     font-family: Ariel, sans-serif;
 }
 h1 {
-  color:blue;text-align:center;font-size: 28px;
+  color:#444035 ;text-align:center;font-size: 50px;font-weight: bold;
+  border: 8px solid blue;
     }
 p  {
-  color:#806070;text-align:center;font-size: 22px;
+  color:#9e5050;text-align:center;font-size: 50px;font-weight: bold;
     }
